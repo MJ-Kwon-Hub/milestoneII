@@ -119,5 +119,5 @@ clf = GridSearchCV(SVC(random_state=14, class_weight=cw_dict, probability=True),
 
 ## Evaluation
 
-- [Model Selection](models/2.model selection.ipynb)
-- [Model Evaluation & Sensitivity Analysis](models/3.Evaluation.ipynb)
+- [Model Selection] (models/2.model selection.ipynb)
+- [Model Evaluation & Sensitivity Analysis] (models/3.Evaluation.ipynb)
